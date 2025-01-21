@@ -1,0 +1,14 @@
+[2025-01-01 12:00:00] INFO: Sistema iniciado
+[2025-01-01 12:10:00] WARNING: Conexão instável
+[2025-01-01 12:15:00] ERROR: Falha na conexão
+[2025-01-01 12:20:00] INFO: Tentativa de reconexão
+[2025-01-01 12:30:00] ERROR: Reconexão falhou
+[2025-01-01 12:40:00] INFO: Sistema encerrado
+[2025-01-01 10:00:00] INFO: Service started
+[2025-01-01 10:05:00] ERROR: Connection failed
+[2025-01-01 10:10:00] WARNING: Low disk space
+[2025-01-01 10:15:00] ERROR: Timeout occurred
+[2025-01-01 10:20:00] INFO: Task completed
+[2025-01-02 11:00:00] ERROR: User authentication failed
+[2025-01-02 11:30:00] INFO: Backup completed
+
