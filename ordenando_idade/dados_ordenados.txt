@@ -1,0 +1,9 @@
+João -> 20
+Felipe -> 22
+Pedro -> 25
+Lucas -> 28
+Juliana -> 29
+Ana -> 30
+Sofia -> 33
+Maria -> 35
+Carla -> 40
