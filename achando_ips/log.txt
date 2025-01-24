@@ -1,0 +1,6 @@
+[2025-01-01 10:00:00] INFO: Connection from 192.168.0.1
+[2025-01-01 10:05:00] ERROR: Connection failed from 10.0.0.5
+[2025-01-01 10:10:00] WARNING: Unusual login attempt from 172.16.254.3
+[2025-01-01 10:15:00] INFO: Service started on 192.168.0.100
+[2025-01-01 10:20:00] ERROR: Timeout occurred from 10.0.0.5
+[2025-01-02 11:00:00] INFO: Task completed by 192.168.0.1
